@@ -10,7 +10,7 @@ Este projeto faz parte de um desafio de modelagem conceitual de banco de dados.
 ## 🔹 Modelo Conceitual
 Abaixo está o diagrama com a estrutura proposta:
 
-![Modelo Conceitual](diagramas/modelo-conceitual.png)
+![Modelo Conceitual](modelo-conceitual.png)
 
 ## 🔹 Entidades
 - **Conta**: entidade genérica para cadastro.  
